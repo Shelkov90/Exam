@@ -31,6 +31,8 @@
     .container .company a:hover {
       background-color: #C32056;
       color: #fff; }
+      .container .company a:hover img {
+        background-color: #fff; }
     .container .company img {
       width: 15%;
       margin-right: 10px; }
