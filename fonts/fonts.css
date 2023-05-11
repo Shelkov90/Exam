@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "BicubikRegular" ;
+	src: url(../fonts/BicubikRegular/BicubikRegular.woff) format('woff');
+}
+@font-face {
+	font-family: "MyriadPro";
+	src: url(../fonts/MyriadPro/MyriadPro-Bold.woff) format('woff');
+}
+@font-face {
+	font-family: "Comfortaa";
+	src: url(../fonts/Comfortaa/comfortaa.woff) format('woff');
+}
+

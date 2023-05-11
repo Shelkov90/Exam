@@ -1,0 +1,73 @@
+.container {
+  margin: 40px auto;
+  max-width: 1200px;
+  background-color: #EAEAEA;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  .container .company {
+    width: 15%;
+    border-right: 5px solid #BCBCBC; }
+    .container .company h1 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 20px;
+      margin-top: 20px;
+      margin-left: 20px; }
+    .container .company hr {
+      margin-bottom: 20px; }
+    .container .company ul {
+      margin-left: 10px; }
+    .container .company a {
+      display: block;
+      text-decoration: none;
+      font-size: 16px;
+      color: #000;
+      margin-bottom: 25px;
+      padding: 10px; }
+    .container .company a:hover {
+      background-color: #C32056;
+      color: #fff; }
+    .container .company img {
+      width: 15%;
+      margin-right: 10px; }
+  .container .dashboard {
+    width: 80%; }
+    .container .dashboard h1 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 20px;
+      margin-top: 20px;
+      margin-left: 20px; }
+    .container .dashboard ul {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      margin-left: 20px;
+      margin-top: 45px; }
+      .container .dashboard ul li {
+        width: 23.5%; }
+      .container .dashboard ul div {
+        border: 1px #000;
+        -webkit-box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        background-color: #F6F6F6;
+        padding: 20px; }
+        .container .dashboard ul div h6 {
+          font-size: 12px;
+          margin-bottom: 10px;
+          text-align: right; }
+        .container .dashboard ul div p {
+          font-size: 24px;
+          text-align: right;
+          margin-bottom: 20px; }
+        .container .dashboard ul div span {
+          font-size: 12px; }
+        .container .dashboard ul div img {
+          margin-right: 5px; }
